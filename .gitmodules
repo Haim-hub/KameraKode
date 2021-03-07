@@ -1,0 +1,3 @@
+[submodule "simple-websocket-haim"]
+	path = simple-websocket-haim
+	url = https://git.heroku.com/simple-websocket-haim.git

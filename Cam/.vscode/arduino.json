@@ -1,0 +1,6 @@
+{
+    "board": "esp32:esp32:esp32wrover",
+    "sketch": "Cam.ino",
+    "port": "/dev/tty.usbmodem143301",
+    "configuration": "PartitionScheme=huge_app,FlashMode=qio,FlashFreq=40,UploadSpeed=115200,DebugLevel=none"
+}
